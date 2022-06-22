@@ -1,3 +1,2 @@
 # heart-failure-prediction
-
-https://dashboard.heroku.com/apps/heart-fail-prediction
+https://heart-fail-prediction.herokuapp.com/
